@@ -1,6 +1,5 @@
 name: liu_family_library
 description: 刘老大家庭书库管理器 - 家庭藏书离线档案管理工具
-
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -12,10 +11,7 @@ dependencies:
     sdk: flutter
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-  mobile_scanner: ^4.0.1
-  image_picker: ^1.0.7
   path_provider: ^2.1.2
-  path: ^1.8.3
   share_plus: ^7.2.0
   fl_chart: ^0.66.0
   cupertino_icons: ^1.0.6
